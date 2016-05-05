@@ -1,0 +1,127 @@
+Dispenser 00: 10 items
+----------------------
+Chips_Doritos_da068e218a514fb9a4f4783257795b29
+Chips_Doritos_d40ee599f48e42f793428d45264bf502
+Chips_Doritos_4df4c96005104786ace9326a39b0aced
+Chips_Doritos_064af2d9455a4195b90fa23fd5b26ac8
+Chips_Doritos_62055c6a7d5845d2824afab27151a71d
+Chips_Doritos_8e70f63f290548409ecdcebb3105f10d
+Chips_Doritos_a891e95f99384671bc5267b988a7e993
+Chips_Doritos_33559aeaa155452bb75c7fe654af6ce3
+Chips_Doritos_c10be4f127914746afa8fb80fdc05630
+Chips_Doritos_8433e5c242084a19bda2306b4c93abda
+
+
+Dispenser 01: 10 items
+----------------------
+Pastry_Twinkie_8e4c3cdd0fab40a389982a463ea1e591
+Pastry_Twinkie_214f98814e2148a4979582ff1768cb68
+Pastry_Twinkie_e2f7c4cefd7947b5b642127863d2d06d
+Pastry_Twinkie_871a51fa793d450b9412c4a752753393
+Pastry_Twinkie_ed51fcba9cd24e0c8bd8bd9bf5c853c6
+Pastry_Twinkie_aefce1a5d53f449588740ccb04230f5d
+Pastry_Twinkie_9e28b444d8ea4c6db7d65c6c4fe12bcb
+Pastry_Twinkie_11c1c855a10c44f59ebb8ed6038f895f
+Pastry_Twinkie_0f3be68ab36544ccb4562d2a29ed3f1e
+Pastry_Twinkie_bf900e311be3425ea4142bedc5007468
+
+
+Dispenser 02: 10 items
+----------------------
+Chips_Sun Chips_9fda094a0ea5465b85bc3513671d6e8e
+Chips_Sun Chips_e04cf3f07e4f406cbc7423ab051e5e49
+Chips_Sun Chips_581eb0df60714a49afa2384b250824c3
+Chips_Sun Chips_94a8451c106e48f2ace94650c5b099af
+Chips_Sun Chips_449c3f9aa92140b8a5fa418ab78e4e7e
+Chips_Sun Chips_bbf359fd93e7403bbb16d8e1d30a3339
+Chips_Sun Chips_e23451fe642d453994044c003bf1aa44
+Chips_Sun Chips_c8d87e9c0a74490885fbd5b5964a2fad
+Chips_Sun Chips_bf0a39b4c5384623afd2cac61657efa6
+Chips_Sun Chips_d6dc620ab5f24ecd8ff57a6c248ac790
+
+
+Dispenser 10: 10 items
+----------------------
+Candy_Skittles_b8742aae1ce74cee9105faa16f3195b2
+Candy_Skittles_0760ffb725bb490fb4c3a2e037fa7f15
+Candy_Skittles_a262d920217649989ed1588a0082acea
+Candy_Skittles_5158d647bd9f42baaec9e41f13a71124
+Candy_Skittles_0871dccb29084ee58afffe6d133516e9
+Candy_Skittles_d8bf4f7f22eb4f85a43ed4d09a148609
+Candy_Skittles_8bf14aebcc6b44919537e23276787c14
+Candy_Skittles_823589ea0bd74c7080e6377b3c286c85
+Candy_Skittles_f944e6f75845440898ff06bff7891ed8
+Candy_Skittles_bb689bcb39284b428e5c43a9d15d1c5b
+
+
+Dispenser 11: 10 items
+----------------------
+Nuts_Peanuts_225f3d98eeb047f49289cfce5b98a2d3
+Nuts_Peanuts_e497772adf424e20b1d6dd90ed9a9738
+Nuts_Peanuts_bf1e6256b28c467aad88ec82f3c965f1
+Nuts_Peanuts_4d271513cae64861a23065a4ab7fd91e
+Nuts_Peanuts_4f91a0ccbb5145edb58a1706b88d71d7
+Nuts_Peanuts_59b3ab75a8f246af9db2389be893e6dc
+Nuts_Peanuts_b762b0cfbf3849038db611e4c451ae22
+Nuts_Peanuts_88ca82bc8ac14400baca996338379718
+Nuts_Peanuts_4a8ebef4e0f343ff8580c2bfbf5908df
+Nuts_Peanuts_e74368afd7a647f3b0aab61a8ca7b5ee
+
+
+Dispenser 12: 10 items
+----------------------
+Candy_Snickers_5c35f062e37e4c7db7ea9bbe11381b66
+Candy_Snickers_9783cd4acc1b446683330f0b1de89088
+Candy_Snickers_8b76bf2435ec4714ac4bd121dc8ede07
+Candy_Snickers_7362512637ae423fabd1dd78ecd2a7e3
+Candy_Snickers_031f57dea24d469881394f7633984c7a
+Candy_Snickers_520ec659ad3143179752dcbc00e9aa46
+Candy_Snickers_e10aa68edfca47b8bdee75ea1b47afd6
+Candy_Snickers_5aa8209ebf844fd4b2adf338fcf16f3e
+Candy_Snickers_47bc74a25c6b4c93bf76e74b27912cde
+Candy_Snickers_8f7bb6d5fe5a4041b4c33b1165676b15
+
+
+Dispenser 20: 10 items
+----------------------
+Gum_Big Red_9ba6ed8608a14709a9fd192fc059c3bc
+Gum_Big Red_075b66e23df24fa0b57e72c428e53622
+Gum_Big Red_da97d04b72ec4e469223541be128806f
+Gum_Big Red_f9acfe39ff7547ccad7fcfc5528e999c
+Gum_Big Red_b14db348539c428696cccc6806afa34c
+Gum_Big Red_bb724ae0a471444185e88ed96c89523c
+Gum_Big Red_facdfd399efa4571b58d9ea921eba305
+Gum_Big Red_4e750abfb6b14de4a0102dd0bfaf02ed
+Gum_Big Red_99a72a7824be435eb101915c951805ed
+Gum_Big Red_de87993a65e64d578b1755a7f38ae568
+
+
+Dispenser 21: 10 items
+----------------------
+Gum_Spearmint_e51c39a900774b0ea00fea13d27efe71
+Gum_Spearmint_d71be315ee154def812ca10a35792e1d
+Gum_Spearmint_bb7abc2ccda9456db5c2381c157977c4
+Gum_Spearmint_03b0e811605246bab907d4ba766cee86
+Gum_Spearmint_0112c30757004f88985bdfe5e8fb93ba
+Gum_Spearmint_e1e42f1e86be49f5a81641d2afba975c
+Gum_Spearmint_08cd3aa9958c4998b5ce5220ed5b29a3
+Gum_Spearmint_eeb0b80273a040fba4204556408c3766
+Gum_Spearmint_bf87705cd9b4482cae87eafb11bade20
+Gum_Spearmint_64b8317754ee4b2db28676b51d49d74d
+
+
+Dispenser 22: 10 items
+----------------------
+Candy_M&M's_740c2f39959e47f294ca2c724c0ed696
+Candy_M&M's_6459313c765e4676be5bdd682c75ec65
+Candy_M&M's_8d3b9f6f917940aa9e749e7356bca3d3
+Candy_M&M's_5ddae8058fda48bf979743dda81ed187
+Candy_M&M's_db015d92957a4122ad376beec10421d4
+Candy_M&M's_846b5db8ee5c4ef88e569c3dadf470b6
+Candy_M&M's_942af7273b774c8780eba9ca36c4f5ec
+Candy_M&M's_129663d588a24232bac831a82c6d5a9d
+Candy_M&M's_82ac97de3db2489b967fe87857f57cd8
+Candy_M&M's_1f714332357742589b5f8686e4466aa9
+
+
+Total Item Count: 90
